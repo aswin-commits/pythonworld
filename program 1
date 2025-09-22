@@ -1,0 +1,4 @@
+A=16
+B=A%2
+print(B)
+print("it is an even number")
